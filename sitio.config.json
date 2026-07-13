@@ -1,0 +1,60 @@
+{
+  "sitio": {
+    "nombre": "BellezaPro",
+    "tagline": "Uñas, peinados y belleza que dan ganas de mostrar",
+    "dominio": "https://xaviermoreno12.github.io",
+    "base": "/bellezapro",
+    "nicho": "belleza (uñas y peluquería)",
+    "idioma": "es",
+    "pais": "AR",
+    "descripcion": "Guías honestas de uñas, peinados y belleza: aprendé técnicas paso a paso y, si querés, convertí tu pasión en un negocio.",
+    "autor": "Equipo BellezaPro",
+    "ga_id": "",
+    "gsc_verification": ""
+  },
+  "marca": {
+    "color_primario": "#db2777",
+    "color_secundario": "#2d1b3d",
+    "color_acento": "#f5a623",
+    "fondo": "#ffffff",
+    "fuente_titulos": "Playfair Display",
+    "fuente_texto": "Poppins"
+  },
+  "productos": [
+    {
+      "id": "manicurista-premium",
+      "codigo": "F88061586C",
+      "nombre": "Manicurista Profesional Premium",
+      "precio": "Ver precio",
+      "moneda": "USD",
+      "hotlink": "https://go.hotmart.com/F88061586C?ap=f5dc",
+      "categoria": "Belleza",
+      "rating": 4.8,
+      "descripcion_corta": "Curso completo de manicure y pedicure: uñas acrílicas, esculpidas y Nail Art, desde cero hasta nivel profesional para vivir de la belleza.",
+      "beneficios": [
+        "Técnicas de uñas acrílicas, esculpidas y Nail Art",
+        "Aprendés desde cero, sin experiencia previa",
+        "Pensado para armar tu propio negocio rentable"
+      ],
+      "para_quien": "Personas apasionadas por la belleza que quieren aprender o profesionalizarse en el cuidado de uñas.",
+      "destacado": true
+    },
+    {
+      "id": "estilista-premium",
+      "codigo": "M77870524G",
+      "nombre": "Estilista Premium",
+      "precio": "Ver precio",
+      "moneda": "USD",
+      "hotlink": "https://go.hotmart.com/M77870524G?ap=96d4",
+      "categoria": "Belleza",
+      "rating": 4.7,
+      "descripcion_corta": "MasterClass de estilismo: corte, colorimetría, peinados y maquillaje, más cómo gestionar tu propio negocio de belleza desde casa.",
+      "beneficios": [
+        "Corte, colorimetría, peinados y maquillaje",
+        "Cómo montar y administrar tu negocio de belleza",
+        "Certificado avalado por Hotmart"
+      ],
+      "para_quien": "Quienes quieren dominar el estilismo y emprender en el sector de la belleza."
+    }
+  ]
+}
