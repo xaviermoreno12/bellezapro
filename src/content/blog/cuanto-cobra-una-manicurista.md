@@ -55,12 +55,12 @@ Los precios no son solo un número al azar. Hay una serie de factores que influy
 - **Ubicación**: Los precios en un barrio exclusivo pueden ser más altos que en zonas donde hay más competencia.
 - **Materiales y técnicas**: Las uñas acrílicas, por ejemplo, requieren más materiales y habilidad, lo que justifica el precio más alto. 
 
-Si querés saber más sobre las uñas acrílicas, podés chequear [cómo se hacen las uñas acrílicas paso a paso](/bellezapro/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
+Si querés saber más sobre las uñas acrílicas, podés chequear [cómo se hacen las uñas acrílicas paso a paso](/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
 
 ## ¿Qué hace una manicurista además del servicio básico?
 
 El trabajo de una manicurista va más allá de simplemente pintar las uñas. A menudo, incluye:
-- **Cuidado de las cutículas**: Es esencial para mantener la salud de las uñas. Podés leer más sobre esto en nuestro post sobre [cómo cuidar las cutículas](/bellezapro/blog/como-cuidar-cuticulas/).
+- **Cuidado de las cutículas**: Es esencial para mantener la salud de las uñas. Podés leer más sobre esto en nuestro post sobre [cómo cuidar las cutículas](/blog/como-cuidar-cuticulas/).
 - **Técnicas de limado y acabado**: Esto implica hacer que las uñas se vean perfectas y pulidas.
 - **Diseños únicos**: Cada cliente es una nueva oportunidad para crear arte en las uñas. ¡Imaginá tener tus propias obras maestras en las manos!
 
@@ -72,7 +72,7 @@ Si te interesa el mundo de la manicura y querés saber por dónde empezar, ¡est
 3. **Práctica**: Empezá a practicar con amigas y familiares. ¡Ellas serán tus primeras clientas!
 4. **Crear un portafolio**: Documentá tus trabajos, así podés mostrar tu estilo a futuros clientes.
 
-Si querés profundizar más en este tema, podés leer sobre [cursos de uñas para principiantes](/bellezapro/blog/cursos-de-unas-para-principiantes/).
+Si querés profundizar más en este tema, podés leer sobre [cursos de uñas para principiantes](/blog/cursos-de-unas-para-principiantes/).
 
 ## Errores comunes al hacerse las uñas
 
@@ -81,7 +81,7 @@ Incluso las manicuristas más experimentadas cometen errores de vez en cuando. A
 - Usar productos de baja calidad. Nunca escatimes en materiales.
 - Ignorar la higiene. Las manos y las herramientas deben estar siempre limpias.
 
-Para más información sobre esto, no olvides leer nuestro artículo sobre [errores comunes al hacerse las uñas](/bellezapro/blog/errores-comunes-al-hacerse-las-unas/).
+Para más información sobre esto, no olvides leer nuestro artículo sobre [errores comunes al hacerse las uñas](/blog/errores-comunes-al-hacerse-las-unas/).
 
 ## Preguntas Frecuentes (FAQs)
 

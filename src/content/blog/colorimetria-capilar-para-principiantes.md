@@ -74,7 +74,7 @@ Uno de los errores más comunes es no tener en cuenta el subtono del cabello. A 
   Absolutamente. Usá productos específicos para mantener el color y la salud del cabello.
 
 - **¿Puedo hacer mechas en casa?**  
-  Sí, pero puede ser complicado. Te recomiendo leer [Cómo hacer mechas en casa: ¡Lográ un look espectacular!](https://www.bellezapro/blog/como-hacer-mechas-en-casa/) para obtener mejores resultados.
+  Sí, pero puede ser complicado. Te recomiendo leer [Cómo hacer mechas en casa: ¡Lográ un look espectacular!](/blog/como-hacer-mechas-en-casa/) para obtener mejores resultados.
 
 - **¿Cómo puedo aprender más sobre colorimetría?**  
   Considerá hacer un curso de estilismo para profundizar en técnicas avanzadas.

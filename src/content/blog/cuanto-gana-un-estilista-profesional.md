@@ -52,7 +52,7 @@ Según un estudio reciente, el salario promedio de un estilista en Argentina ron
 
 Si estás buscando hacer del estilismo tu carrera, hay varias estrategias que podés aplicar para aumentar tus ingresos. Aquí van algunas ideas:
 
-1. **Especializate**: Ofrecer servicios únicos como técnicas de coloración avanzadas o peinados de gala puede hacer que tus clientes paguen más. Si querés aprender más sobre colorimetría, no te pierdas nuestro artículo sobre [Colorimetría capilar para principiantes: ¡Transformá tu look!](/bellezapro/blog/colorimetria-capilar-para-principiantes/).
+1. **Especializate**: Ofrecer servicios únicos como técnicas de coloración avanzadas o peinados de gala puede hacer que tus clientes paguen más. Si querés aprender más sobre colorimetría, no te pierdas nuestro artículo sobre [Colorimetría capilar para principiantes: ¡Transformá tu look!](/blog/colorimetria-capilar-para-principiantes/).
 
 2. **Crea tu marca personal**: No subestimes el poder de las redes sociales. Mostrar tu trabajo en Instagram o TikTok puede atraer a más clientes. No solo te verán como un estilista, sino como una figura referente en el mundo de la belleza.
 

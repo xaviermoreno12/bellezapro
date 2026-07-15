@@ -39,15 +39,15 @@ Las uñas son como la cereza del postre, el toque final que puede transformar un
 
 ### 1. Uñas acrílicas
 
-Las uñas acrílicas son una excelente opción para quienes buscan un acabado duradero y espectacular. Podés optar por colores vibrantes o diseños elaborados. Como ves, las posibilidades son infinitas. Además, si querés aprender a hacerlas vos misma, [cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/bellezapro/blog/como-se-hacen-unas-acrilicas-paso-a-paso/) es la lectura ideal.
+Las uñas acrílicas son una excelente opción para quienes buscan un acabado duradero y espectacular. Podés optar por colores vibrantes o diseños elaborados. Como ves, las posibilidades son infinitas. Además, si querés aprender a hacerlas vos misma, [cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/blog/como-se-hacen-unas-acrilicas-paso-a-paso/) es la lectura ideal.
 
 ### 2. Uñas de gel
 
-Si preferís algo un poco más suave y menos voluminosa, las uñas de gel son la respuesta. Tienen un acabado brillante y son más flexibles que las acrílicas. ¡Perfectas para un look elegante! Si querés saber más sobre este tipo, no te pierdas [cuánto duran las uñas de gel: ¡descubrilo ya!](/bellezapro/blog/cuanto-duran-unas-de-gel/).
+Si preferís algo un poco más suave y menos voluminosa, las uñas de gel son la respuesta. Tienen un acabado brillante y son más flexibles que las acrílicas. ¡Perfectas para un look elegante! Si querés saber más sobre este tipo, no te pierdas [cuánto duran las uñas de gel: ¡descubrilo ya!](/blog/cuanto-duran-unas-de-gel/).
 
 ### 3. Nail Art
 
-El Nail Art es el arte de decorar las uñas y, según la ocasión, podés optar por diseños sencillos o bien elaborados. Desde flores hasta geometrías, ¡las opciones son casi infinitas! Si recién empezás en este mundo, te recomiendo que le eches un vistazo a [Nail Art para principiantes: ¡Aprendé a brillar con tus uñas!](/bellezapro/blog/nail-art-para-principiantes/).
+El Nail Art es el arte de decorar las uñas y, según la ocasión, podés optar por diseños sencillos o bien elaborados. Desde flores hasta geometrías, ¡las opciones son casi infinitas! Si recién empezás en este mundo, te recomiendo que le eches un vistazo a [Nail Art para principiantes: ¡Aprendé a brillar con tus uñas!](/blog/nail-art-para-principiantes/).
 
 ## Colores y diseños según la ocasión
 
@@ -82,7 +82,7 @@ Las uñas acrílicas suelen ser más duraderas que las de gel, pero ambas pueden
 Generalmente, el proceso puede tomar entre 1 a 2 horas, dependiendo del diseño solicitado y la experiencia del manicurista.
 
 ### ¿Es posible quitar las uñas acrílicas en casa?
-Sí, pero es importante seguir los pasos adecuados para evitar dañar la uña natural. [Cómo quitar uñas acrílicas en casa sin dañar: ¡Tips infalibles!](/bellezapro/blog/quitar-unas-acrilicas-en-casa-sin-danar/) es un artículo que te ayudará a hacerlo correctamente.
+Sí, pero es importante seguir los pasos adecuados para evitar dañar la uña natural. [Cómo quitar uñas acrílicas en casa sin dañar: ¡Tips infalibles!](/blog/quitar-unas-acrilicas-en-casa-sin-danar/) es un artículo que te ayudará a hacerlo correctamente.
 
 ## Cierre
 

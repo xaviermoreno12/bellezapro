@@ -43,9 +43,9 @@ Las tendencias de uñas no son solo modas pasajeras. Marcan un estilo y, a menud
 
 Ahora que tenés los colores, veamos los estilos que estarán en tendencia. 
 
-- **Uñas acrílicas**: Este estilo sigue ganando popularidad. Las uñas acrílicas te permiten jugar con formas y largos. Si querés saber más sobre cómo hacerlas, fijate en [cómo se hacen las uñas acrílicas paso a paso](https://www.bellezapro/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
-- **Nail Art**: La creatividad no tiene límites. Desde diseños geométricos hasta arte abstracto, ¡dale rienda suelta a tu imaginación! Si necesitás inspiración, revisá nuestro post sobre [uñas decoradas paso a paso](https://www.bellezapro/blog/unias-decoradas-paso-a-paso/).
-- **Uñas esculpidas**: Este estilo, que está en auge, permite crear formas personalizadas y únicas. Si te preguntás qué son, no dejes de leer [¿Qué son las uñas esculpidas? Todo lo que necesitás saber](https://www.bellezapro/blog/que-son-unas-esculpidas/).
+- **Uñas acrílicas**: Este estilo sigue ganando popularidad. Las uñas acrílicas te permiten jugar con formas y largos. Si querés saber más sobre cómo hacerlas, fijate en [cómo se hacen las uñas acrílicas paso a paso](/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
+- **Nail Art**: La creatividad no tiene límites. Desde diseños geométricos hasta arte abstracto, ¡dale rienda suelta a tu imaginación! Si necesitás inspiración, revisá nuestro post sobre uñas decoradas paso a paso.
+- **Uñas esculpidas**: Este estilo, que está en auge, permite crear formas personalizadas y únicas. Si te preguntás qué son, no dejes de leer [¿Qué son las uñas esculpidas? Todo lo que necesitás saber](/blog/que-son-unas-esculpidas/).
 
 ## Técnicas innovadoras que debes conocer
 

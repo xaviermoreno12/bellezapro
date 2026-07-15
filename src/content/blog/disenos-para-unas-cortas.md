@@ -52,7 +52,7 @@ Cuidar tus uñas es fundamental para que luzcan siempre bien. Aquí te dejo unos
 - **Lijado regular**: Mantené la forma de tus uñas usando una lima. No te olvides de hacerlo de a poco, ¡no queremos que se rompan!
 - **Esmalte de calidad**: Invertí en un buen esmalte que no solo embellezca, sino que también cuide tus uñas.
 
-Si querés aprender a hacer otros estilos de uñas, te invito a leer [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](/bellezapro/blog/como-hacer-unas-de-gel-en-casa/) para que te animes a probar.
+Si querés aprender a hacer otros estilos de uñas, te invito a leer [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](/blog/como-hacer-unas-de-gel-en-casa/) para que te animes a probar.
 
 ## Errores comunes en el cuidado de uñas cortas
 
@@ -78,6 +78,6 @@ Depende del cuidado que les des, pero en general, suelen durar entre 5 a 7 días
 Los diseños con puntos o líneas son ideales para comenzar. No requieren mucha técnica y son muy versátiles.
 
 ### 6. ¿Debo siempre ir a un salón para hacerme las uñas?
-No necesariamente. Si te animás, podés hacerte diseños en casa. Existen muchos tutoriales y cursos online que te pueden ayudar, como [Cursos de uñas para principiantes: ¡Conviértete en experta!](/bellezapro/blog/cursos-de-unas-para-principiantes/).
+No necesariamente. Si te animás, podés hacerte diseños en casa. Existen muchos tutoriales y cursos online que te pueden ayudar, como [Cursos de uñas para principiantes: ¡Conviértete en experta!](/blog/cursos-de-unas-para-principiantes/).
 
 Si estás lista para profundizar tus conocimientos y convertirte en una verdadera experta en el cuidado y diseño de uñas, no olvides considerar el curso **Manicurista Profesional Premium**. Allí aprenderás todo lo necesario para transformar tu pasión en un negocio rentable, desde técnicas de Nail Art hasta el montaje de uñas esculpidas. ¡Es el momento de brillar en el mundo de la belleza!

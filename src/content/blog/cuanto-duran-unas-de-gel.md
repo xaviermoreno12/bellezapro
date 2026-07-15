@@ -48,7 +48,7 @@ La respuesta corta: entre 2 a 4 semanas. Pero eso puede variar dependiendo de va
 | **Tipo de gel**          | Algunos geles son más duraderos que otros. |
 | **Estilo de vida**       | Si trabajás con las manos o hacés deporte, pueden desgastarse más rápido. |
 
-Así que, si querés que tus uñas de gel se mantengan en excelente estado, ¡cuidalas como si fueran un tesoro! Y no dudes en revisar [cómo hacer uñas de gel en casa: ¡brillá como una pro!](/bellezapro/blog/como-hacer-unas-de-gel-en-casa/) para más tips.
+Así que, si querés que tus uñas de gel se mantengan en excelente estado, ¡cuidalas como si fueran un tesoro! Y no dudes en revisar [cómo hacer uñas de gel en casa: ¡brillá como una pro!](/blog/como-hacer-unas-de-gel-en-casa/) para más tips.
 
 ## Tips para prolongar la duración de tus uñas de gel
 
@@ -97,4 +97,4 @@ Si cometiste alguno de estos errores, no te preocupes. Aprender es parte del pro
 
 Las uñas de gel son una excelente opción para quienes buscan durabilidad y estilo. Recordá cuidarlas y mantener un seguimiento regular con tu manicurista para asegurarte de que luzcan siempre fabulosas. Si realmente te apasiona el mundo de las uñas y querés dar el siguiente paso, considera unirte al **Manicurista Profesional Premium**. Este curso te enseñará todo lo que necesitás saber, desde el cuidado básico hasta técnicas avanzadas de Nail Art. ¡Transformá tu pasión en un negocio exitoso!  
 
-Y, si tenés más preguntas sobre el cuidado de tus uñas, no dudes en explorar más sobre [cuánto duran las uñas acrílicas](/bellezapro/blog/cuanto-duran-las-unas-acrilicas/) y [cursos de uñas para principiantes](/bellezapro/blog/cursos-de-unas-para-principiantes/).
+Y, si tenés más preguntas sobre el cuidado de tus uñas, no dudes en explorar más sobre [cuánto duran las uñas acrílicas](/blog/cuanto-duran-las-unas-acrilicas/) y [cursos de uñas para principiantes](/blog/cursos-de-unas-para-principiantes/).

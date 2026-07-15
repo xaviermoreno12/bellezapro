@@ -91,7 +91,7 @@ Para retirar uñas acrílicas, lo mejor es acudir a un profesional. Si decidís 
 Al principio puede parecer complicado, pero con práctica y una buena guía, se vuelve más fácil. 
 
 ### ¿Existen cursos para aprender a hacer uñas acrílicas?
-¡Claro! Hay muchos cursos disponibles que te enseñan desde cero. [Cursos de uñas para principiantes: ¡Conviértete en experta!](https://www.bellezapro.com/bellezapro/blog/cursos-de-unas-para-principiantes/) es una excelente opción para empezar.
+¡Claro! Hay muchos cursos disponibles que te enseñan desde cero. [Cursos de uñas para principiantes: ¡Conviértete en experta!](/blog/cursos-de-unas-para-principiantes/) es una excelente opción para empezar.
 
 ## Cierre
 

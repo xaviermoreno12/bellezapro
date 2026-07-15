@@ -45,7 +45,7 @@ La elección de un diseño elegante no solo es cuestión de moda, sino también 
 Hay una infinidad de opciones cuando se trata de **uñas diseños elegantes**. Acá te dejo algunas ideas que podés poner en práctica:
 
 - **French clásico:** Nunca pasa de moda. Un borde blanco sobre una base nude es perfecto para cualquier ocasión.
-- **Uñas esculpidas:** Si querés algo más audaz, podés optar por unas uñas esculpidas que se adapten a la forma de tus dedos. [¿Qué son las uñas esculpidas? Todo lo que necesitás saber](https://www.bellezapro.com/bellezapro/blog/que-son-unas-esculpidas/)
+- **Uñas esculpidas:** Si querés algo más audaz, podés optar por unas uñas esculpidas que se adapten a la forma de tus dedos. [¿Qué son las uñas esculpidas? Todo lo que necesitás saber](/blog/que-son-unas-esculpidas/)
 - **Diseños con glitter:** Un poco de brillo siempre aporta un toque de elegancia. Podés aplicar glitter en la punta o en todo el diseño.
 - **Nail Art:** Para las más atrevidas, realizar dibujos o patrones es una excelente manera de expresar tu creatividad. 
 
@@ -59,7 +59,7 @@ Si querés empezar a hacer tus propias uñas diseños elegantes, seguí estos pa
 4. **Agregá el diseño:** Usá pinceles finos o dotting tools para hacer los detalles. ¡Dejá volar tu imaginación!
 5. **Finalizá con top coat:** Esto sellará tu diseño y le dará un brillo espectacular. 
 
-Si necesitás más información sobre cómo hacer uñas de gel, podés leer [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](https://www.bellezapro.com/bellezapro/blog/como-hacer-unas-de-gel-en-casa/)
+Si necesitás más información sobre cómo hacer uñas de gel, podés leer [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](/blog/como-hacer-unas-de-gel-en-casa/)
 
 ## Errores comunes al hacer uñas elegantes
 

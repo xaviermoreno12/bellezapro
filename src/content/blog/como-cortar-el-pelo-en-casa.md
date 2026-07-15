@@ -94,6 +94,6 @@ Dedicale el tiempo que necesites. No hay prisa. A medida que practiques, te volv
 
 ## Cierre
 
-Cortar el pelo en casa puede ser una experiencia liberadora y divertida. Si te sorprende lo bien que te queda, ¡no te asustes! Podés ser tu propio estilista. Y si querés llevar tus habilidades al siguiente nivel y convertirte en un auténtico estilista premium, te recomiendo la **[Estilista Premium — MasterClass de estilismo](https://www.ejemplo.com)**. Aprendé técnicas avanzadas de corte, colorimetría y peinados, además de cómo gestionar tu propio negocio desde casa. ¡No hay mejor momento para invertir en vos mismo!
+Cortar el pelo en casa puede ser una experiencia liberadora y divertida. Si te sorprende lo bien que te queda, ¡no te asustes! Podés ser tu propio estilista. Y si querés llevar tus habilidades al siguiente nivel y convertirte en un auténtico estilista premium, te recomiendo la **Estilista Premium — MasterClass de estilismo**. Aprendé técnicas avanzadas de corte, colorimetría y peinados, además de cómo gestionar tu propio negocio desde casa. ¡No hay mejor momento para invertir en vos mismo!
 
 ¡Ahora sí, a cortar y disfrutar de tu nuevo look!

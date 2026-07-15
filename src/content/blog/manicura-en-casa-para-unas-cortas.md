@@ -64,14 +64,14 @@ Aquí van algunos errores que suelen cometerse al hacer manicura en casa, y cóm
 Si pensás que las uñas cortas no pueden ser divertidas, ¡te equivocas! Aquí van algunas ideas:
 - **Francesita moderna:** Una clásica, pero con un toque. Usá un color neutro y una punta de otro color.
 - **Diseños minimalistas:** Líneas o puntos en colores contrastantes pueden hacer maravillas en uñas cortas.
-- **Nail Art:** Si querés dar un paso más, podés aprender algunas técnicas de [Nail Art para principiantes](/bellezapro/blog/nail-art-para-principiantes/). ¡Te sorprenderás de lo que podés lograr!
+- **Nail Art:** Si querés dar un paso más, podés aprender algunas técnicas de [Nail Art para principiantes](/blog/nail-art-para-principiantes/). ¡Te sorprenderás de lo que podés lograr!
 
 ## ¿Quieres más consejos? ¡Mirá estos posts!
 
 Si ya estás lista para llevar tu juego de uñas al siguiente nivel, te recomiendo leer:
-- [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](/bellezapro/blog/como-hacer-unas-de-gel-en-casa/)
-- [Cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/bellezapro/blog/como-se-hacen-unas-acrilicas-paso-a-paso/)
-- [Diseños para uñas cortas: ¡Luces tus manos con estilo!](/bellezapro/blog/disenos-para-unas-cortas/)
+- [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](/blog/como-hacer-unas-de-gel-en-casa/)
+- [Cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/blog/como-se-hacen-unas-acrilicas-paso-a-paso/)
+- [Diseños para uñas cortas: ¡Luces tus manos con estilo!](/blog/disenos-para-unas-cortas/)
 
 ## FAQs sobre manicura en casa para uñas cortas
 

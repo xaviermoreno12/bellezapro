@@ -85,4 +85,4 @@ El último error (pero no menos importante) es ser impaciente. Después de todo 
 
 Evitar estos errores comunes al hacerse las uñas te permitirá lucir unas manos impecables y listas para impresionar. Pero si querés llevar tus habilidades al siguiente nivel, te recomiendo el curso **Manicurista Profesional Premium**. Aprendé desde cero técnicas de manicure y pedicure, uñas acrílicas y Nail Art. ¡Convertí tu pasión por la belleza en un negocio exitoso!
 
-Y si querés más tips sobre el cuidado de tus uñas, no dudes en leer nuestro artículo sobre [cómo cuidar las cutículas](/bellezapro/blog/como-cuidar-cuticulas/) o [cómo hacer uñas de gel en casa](/bellezapro/blog/como-hacer-unas-de-gel-en-casa/). ¡Tus manos te lo van a agradecer!
+Y si querés más tips sobre el cuidado de tus uñas, no dudes en leer nuestro artículo sobre [cómo cuidar las cutículas](/blog/como-cuidar-cuticulas/) o [cómo hacer uñas de gel en casa](/blog/como-hacer-unas-de-gel-en-casa/). ¡Tus manos te lo van a agradecer!

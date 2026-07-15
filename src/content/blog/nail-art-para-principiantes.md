@@ -42,7 +42,7 @@ Ahora que ya entendés por qué es tan genial, vamos a lo práctico. Aquí te de
 1. **Prepará tus uñas**: Antes de cualquier diseño, asegurate de que tus uñas estén limpias y bien cuidadas. Esto incluye limarlas y empujar las cutículas.
 2. **Elige los materiales**: Necesitás esmaltes de colores, pinceles finos, y quizás algunas decoraciones como brillos o stickers. No te preocupes, podés empezar con lo básico y luego ir sumando herramientas.
 3. **Practica diseños simples**: Comenzá con diseños fáciles como puntos, líneas o combinaciones de colores. ¡Menos es más, y lo simple a veces resulta espectacular!
-4. **Mirá tutoriales**: Hay millones de videos en línea que pueden guiarte. Si no sabés por dónde empezar, [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](/bellezapro/blog/como-hacer-unas-de-gel-en-casa/) es una excelente opción. 
+4. **Mirá tutoriales**: Hay millones de videos en línea que pueden guiarte. Si no sabés por dónde empezar, [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](/blog/como-hacer-unas-de-gel-en-casa/) es una excelente opción. 
 5. **Sé paciente y disfrutá**: La práctica hace al maestro. No te frustres si al principio no sale como esperabas. Cada intento es un paso hacia la perfección.
 
 ## Algunos diseños sencillos para probar
@@ -54,7 +54,7 @@ Para animarte, aquí van algunas ideas de diseños que podés probar:
 
 ## El error común del nail art
 
-Uno de los errores más comunes al comenzar es querer hacer diseños complejos de inmediato. Puede ser tentador, pero es mejor ir paso a paso. Empezá con lo básico y, a medida que vayas ganando confianza, podés aventurarte a diseños más intrincados. Y si te interesa aprender más sobre técnicas, no te olvides de leer [Cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/bellezapro/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
+Uno de los errores más comunes al comenzar es querer hacer diseños complejos de inmediato. Puede ser tentador, pero es mejor ir paso a paso. Empezá con lo básico y, a medida que vayas ganando confianza, podés aventurarte a diseños más intrincados. Y si te interesa aprender más sobre técnicas, no te olvides de leer [Cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
 
 ## Preguntas frecuentes sobre Nail Art para principiantes
 
@@ -74,7 +74,7 @@ Depende del tipo de esmalte que uses, pero generalmente entre 15 a 30 minutos. �
 Todo es cuestión de práctica. Al principio puede parecer complicado, pero con el tiempo se vuelve más fácil y divertido.
 
 ### ¿Dónde puedo aprender más sobre técnicas de uñas?
-Si querés profundizar, te recomiendo que leas [Cursos de uñas para principiantes: ¡Conviértete en experta!](/bellezapro/blog/cursos-de-unas-para-principiantes/).
+Si querés profundizar, te recomiendo que leas [Cursos de uñas para principiantes: ¡Conviértete en experta!](/blog/cursos-de-unas-para-principiantes/).
 
 ## Cierre
 

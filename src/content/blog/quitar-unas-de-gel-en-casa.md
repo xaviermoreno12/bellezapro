@@ -83,4 +83,4 @@ Ya tenés las herramientas y el conocimiento para quitar uñas de gel en casa co
 
 ¿Te imaginás haciendo lo que te gusta y ganando dinero al mismo tiempo? ¡Es posible! Convertí tu pasión en un negocio exitoso. Para más info, no dudes en consultar el curso y dar ese salto que tanto soñás.
 
-¡Manos a la obra y hasta la próxima! Si querés más tips sobre uñas, no te olvides de leer también [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](/bellezapro/blog/como-hacer-unas-de-gel-en-casa/) y [¿Cuánto duran las uñas de gel? ¡Descubrilo ya!](/bellezapro/blog/cuanto-duran-unas-de-gel/).
+¡Manos a la obra y hasta la próxima! Si querés más tips sobre uñas, no te olvides de leer también [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](/blog/como-hacer-unas-de-gel-en-casa/) y [¿Cuánto duran las uñas de gel? ¡Descubrilo ya!](/blog/cuanto-duran-unas-de-gel/).

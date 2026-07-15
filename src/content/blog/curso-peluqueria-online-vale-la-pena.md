@@ -52,13 +52,13 @@ No todos los cursos de peluquería online son una maravilla. Algunos son como es
 Los cursos de peluquería online tienen ventajas que no podés ignorar:
 - **Economía:** Generalmente, son más accesibles que las formaciones presenciales. ¡Aprovechá para ahorrar!
 - **Networking:** Algunos cursos ofrecen acceso a comunidades de estudiantes y profesionales del rubro. Ideal para hacer contactos.
-- **Aprendizaje práctico:** Muchos cursos incluyen ejercicios prácticos que podés hacer en tu casa, como [cómo cortar el pelo en casa](/bellezapro/blog/como-cortar-el-pelo-en-casa/) o [colorimetría capilar para principiantes](/bellezapro/blog/colorimetria-capilar-para-principiantes/).
+- **Aprendizaje práctico:** Muchos cursos incluyen ejercicios prácticos que podés hacer en tu casa, como [cómo cortar el pelo en casa](/blog/como-cortar-el-pelo-en-casa/) o [colorimetría capilar para principiantes](/blog/colorimetria-capilar-para-principiantes/).
 
 ## ¿Qué técnicas podés aprender?
 
 Un curso de peluquería online puede ofrecer una amplia gama de técnicas que van desde lo básico hasta lo más avanzado. Algunas de ellas incluyen:
 - **Corte de pelo:** Aprenderás diferentes estilos y técnicas de corte.
-- **Colorimetría:** Fundamental para crear looks que destaquen. Podés empezar a explorar [cómo hacer mechas en casa](/bellezapro/blog/como-hacer-mechas-en-casa/).
+- **Colorimetría:** Fundamental para crear looks que destaquen. Podés empezar a explorar [cómo hacer mechas en casa](/blog/como-hacer-mechas-en-casa/).
 - **Peinados:** Desde trenzas hasta recogidos elegantes.
 - **Maquillaje:** Importante para complementar tu trabajo de estilismo.
 

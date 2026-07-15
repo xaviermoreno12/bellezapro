@@ -79,7 +79,7 @@ No es estrictamente necesario, pero es recomendable hacerlo una vez a la semana 
 Si notas enrojecimiento, hinchazón o pus, lo mejor es consultar a un médico. No te la juegues con la salud de tus manos.
 
 ### 6. ¿Puedo hacerme la manicura en casa?
-¡Por supuesto! Con los tips que te di y un poco de práctica, podés lograr una manicura profesional en casa. Para más detalles, podés leer [cómo hacer uñas de gel en casa](https://tu-sitio.com/bellezapro/blog/como-hacer-unas-de-gel-en-casa/) o [cómo se hacen las uñas acrílicas paso a paso](https://tu-sitio.com/bellezapro/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
+¡Por supuesto! Con los tips que te di y un poco de práctica, podés lograr una manicura profesional en casa. Para más detalles, podés leer [cómo hacer uñas de gel en casa](/blog/como-hacer-unas-de-gel-en-casa/) o [cómo se hacen las uñas acrílicas paso a paso](/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
 
 ## Cierre
 

@@ -47,7 +47,7 @@ Si te interesa aprender a hacer uñas esculpidas, aquí te dejo un pequeño resu
 4. **Lijado y acabado:** Se lima la superficie para dejarla suave y se aplica un top coat para el brillo.
 5. **Diseño final:** Aquí es donde la creatividad entra en juego. Podés optar por nail art, colores vibrantes o incluso detalles en 3D.
 
-Si querés profundizar en el proceso, podés leer nuestro [Cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/bellezapro/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
+Si querés profundizar en el proceso, podés leer nuestro [Cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
 
 ## Diferencias entre uñas esculpidas y uñas acrílicas
 
@@ -70,7 +70,7 @@ Hay algunos mitos que circulan por ahí. Por ejemplo, muchas personas creen que 
 Dependiendo del cuidado y el crecimiento natural de tus uñas, pueden durar entre 2 y 4 semanas antes de necesitar un retoque.
 
 ### ¿Se pueden quitar en casa?
-¡Sí, pero con cuidado! Lo mejor es acudir a un profesional para evitar dañar tus uñas naturales. Si querés más detalles, te recomiendo leer [Cómo quitar uñas acrílicas en casa sin dañar: ¡Tips infalibles!](/bellezapro/blog/quitar-unas-acrilicas-en-casa-sin-danar/).
+¡Sí, pero con cuidado! Lo mejor es acudir a un profesional para evitar dañar tus uñas naturales. Si querés más detalles, te recomiendo leer [Cómo quitar uñas acrílicas en casa sin dañar: ¡Tips infalibles!](/blog/quitar-unas-acrilicas-en-casa-sin-danar/).
 
 ### ¿Puedo hacerme uñas esculpidas si tengo las uñas débiles?
 Sí, pero es importante que consultes a un profesional antes de hacerlo. Ellos podrán darte recomendaciones específicas según tu caso.
@@ -83,6 +83,6 @@ Mantené tus uñas limpias, hidratadas y evitá golpear objetos duros con ellas.
 
 ## Cierre
 
-Ahora que ya sabes qué son las uñas esculpidas y cómo pueden transformar tu estilo, es el momento ideal para dar el siguiente paso. Si realmente querés convertirte en una experta en el arte de las uñas, te invito a considerar el [Manicurista Profesional Premium — Curso completo de manicure y pedicure](/bellezapro/cursos/manicurista-profesional-premium). Aprenderás todo sobre técnicas de uñas esculpidas, acrílicas y mucho más, desde cero hasta nivel profesional. ¡Es tu oportunidad para vivir de la belleza y hacer que tu pasión se convierta en un negocio exitoso!
+Ahora que ya sabes qué son las uñas esculpidas y cómo pueden transformar tu estilo, es el momento ideal para dar el siguiente paso. Si realmente querés convertirte en una experta en el arte de las uñas, te invito a considerar el Manicurista Profesional Premium — Curso completo de manicure y pedicure. Aprenderás todo sobre técnicas de uñas esculpidas, acrílicas y mucho más, desde cero hasta nivel profesional. ¡Es tu oportunidad para vivir de la belleza y hacer que tu pasión se convierta en un negocio exitoso!
 
 Así que armate de esmaltes, brillo y mucha creatividad. ¡Las uñas esculpidas son el camino a seguir!

@@ -95,11 +95,11 @@ No hay mal que por bien no venga. Si cometés un error, siempre podés corregirl
 
 ### ¿Cómo quitar el esmalte sin dañar las uñas? 
 
-Usá acetona suave y algodón. Puedes encontrar algunos tips infalibles en este post: [Cómo quitar uñas acrílicas en casa sin dañar](/bellezapro/blog/quitar-unas-acrilicas-en-casa-sin-danar/). 
+Usá acetona suave y algodón. Puedes encontrar algunos tips infalibles en este post: [Cómo quitar uñas acrílicas en casa sin dañar](/blog/quitar-unas-acrilicas-en-casa-sin-danar/). 
 
 ### ¿Cuál es la diferencia entre uñas decoradas y uñas acrílicas? 
 
-Las uñas decoradas son simplemente el arte que se realiza sobre tus uñas naturales o postizas, mientras que las uñas acrílicas son una técnica específica de extensión. Si querés profundizar más, te recomiendo leer [Cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/bellezapro/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
+Las uñas decoradas son simplemente el arte que se realiza sobre tus uñas naturales o postizas, mientras que las uñas acrílicas son una técnica específica de extensión. Si querés profundizar más, te recomiendo leer [Cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
 
 ### ¿Qué herramientas son imprescindibles para el Nail Art? 
 

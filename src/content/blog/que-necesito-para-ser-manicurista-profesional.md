@@ -57,11 +57,11 @@ No hay forma de ser un manicurista profesional sin una buena formación. Podés 
 
 ## Pasos para crear uñas acrílicas como una pro
 
-Si hay algo que te va a diferenciar como manicurista profesional son tus habilidades con las uñas acrílicas. Aprender a hacerlas bien te puede abrir muchas puertas. Podés empezar investigando sobre los diferentes tipos de acrílicos y cómo aplicarlos. No te olvides de practicar también, ¡que la práctica hace al maestro! Si querés un paso a paso detallado, te recomiendo leer nuestro artículo sobre [cómo se hacen las uñas acrílicas paso a paso](/bellezapro/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
+Si hay algo que te va a diferenciar como manicurista profesional son tus habilidades con las uñas acrílicas. Aprender a hacerlas bien te puede abrir muchas puertas. Podés empezar investigando sobre los diferentes tipos de acrílicos y cómo aplicarlos. No te olvides de practicar también, ¡que la práctica hace al maestro! Si querés un paso a paso detallado, te recomiendo leer nuestro artículo sobre [cómo se hacen las uñas acrílicas paso a paso](/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
 
 ## Comenzá tu negocio de uñas
 
-Si tu idea es hacer de esto un negocio rentable, estás en el camino correcto. Un dato interesante: muchas manicuristas profesionales han iniciado su propio emprendimiento desde casa. Podés empezar ofreciendo servicios a tus amigas y familiares, y pronto tendrás una clientela fiel. Para más consejos sobre cómo arrancar, mirá nuestro artículo sobre [cómo montar un negocio de uñas desde casa y brillar](/bellezapro/blog/como-montar-negocio-unas-casa/).
+Si tu idea es hacer de esto un negocio rentable, estás en el camino correcto. Un dato interesante: muchas manicuristas profesionales han iniciado su propio emprendimiento desde casa. Podés empezar ofreciendo servicios a tus amigas y familiares, y pronto tendrás una clientela fiel. Para más consejos sobre cómo arrancar, mirá nuestro artículo sobre [cómo montar un negocio de uñas desde casa y brillar](/blog/como-montar-negocio-unas-casa/).
 
 ## Preguntas frecuentes
 

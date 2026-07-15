@@ -85,4 +85,4 @@ Hidratá bien tus manos y uñas, y evitá el uso excesivo de esmaltes por unos d
 
 Y ahí lo tenés, ya sabés **cómo quitar uñas acrílicas en casa sin dañar**. Cuidar de nuestras uñas es un arte, y si querés perfeccionarlo, te invito a que consideres el curso **Manicurista Profesional Premium**. Ahí vas a aprender todo, desde cómo hacer uñas acrílicas hasta técnicas de Nail Art que te harán brillar. ¡Transformá tu pasión por la belleza en un negocio exitoso y sé la experta que siempre soñaste ser! No te lo pierdas.
 
-Para más información sobre el fascinante mundo de las uñas, te recomiendo leer [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](/bellezapro/blog/como-hacer-unas-de-gel-en-casa/) y [Cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/bellezapro/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
+Para más información sobre el fascinante mundo de las uñas, te recomiendo leer [Cómo hacer uñas de gel en casa: ¡brillá como una pro!](/blog/como-hacer-unas-de-gel-en-casa/) y [Cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!](/blog/como-se-hacen-unas-acrilicas-paso-a-paso/).
