@@ -2,8 +2,8 @@
   "sitio": {
     "nombre": "BellezaPro",
     "tagline": "Uñas, peinados y belleza que dan ganas de mostrar",
-    "dominio": "https://xaviermoreno12.github.io",
-    "base": "/bellezapro",
+    "dominio": "https://bellezapro.vercel.app",
+    "base": "/",
     "nicho": "belleza (uñas y peluquería)",
     "idioma": "es",
     "pais": "AR",
