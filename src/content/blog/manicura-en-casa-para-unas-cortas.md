@@ -9,8 +9,8 @@ cluster:
   - "cómo hacer manicura en casa"
   - "tips para uñas cortas"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/973405/pexels-photo-973405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "Close-up of a woman applying glitter nail polish to manicured pink fingernails."
+heroImage: "https://images.pexels.com/photos/6135686/pexels-photo-6135686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "Detailed close-up capturing a nail technician applying glossy red polish to fingernails, highlighting precision and care."
 faqs:
   - q: "¿Es posible hacer una buena manicura en casa?"
     a: "Sí, con práctica y paciencia, podés lograr resultados sorprendentes."

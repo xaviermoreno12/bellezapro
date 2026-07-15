@@ -9,8 +9,8 @@ cluster:
   - "diferencias entre uñas de gel y semipermanente"
   - "cuidado de uñas semipermanentes"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/6830805/pexels-photo-6830805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "From above of crop unrecognizable female in warm sweater demonstrating hands with manicure with creative nail art"
+heroImage: "https://images.pexels.com/photos/7699388/pexels-photo-7699388.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "A cozy close-up of a woman's hands placed together, showcasing a knitted sweater."
 faqs:
   - q: "¿Las uñas de gel son más duraderas que las semipermanentes?"
     a: "Sí, generalmente las uñas de gel son más duraderas, pero todo depende del cuidado que les des."

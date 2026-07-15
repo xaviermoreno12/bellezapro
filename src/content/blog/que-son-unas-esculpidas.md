@@ -9,8 +9,8 @@ cluster:
   - "técnicas de uñas esculpidas"
   - "manicura esculpida"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/7066298/pexels-photo-7066298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "Close-up of a hand with colorful polka dot nail art holding vibrant nail polish bottles."
+heroImage: "https://images.pexels.com/photos/6429663/pexels-photo-6429663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "Close-up of a hand with colorful manicure surrounded by various nail polish bottles."
 faqs:
   - q: "¿Qué son las uñas esculpidas?"
     a: "Son una técnica de manicura que permite crear una forma y longitud deseada utilizando acrílico o gel."

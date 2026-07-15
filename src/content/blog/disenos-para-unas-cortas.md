@@ -9,8 +9,8 @@ cluster:
   - "uñas cortas con arte"
   - "tendencias en uñas cortas"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/7066298/pexels-photo-7066298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "Close-up of a hand with colorful polka dot nail art holding vibrant nail polish bottles."
+heroImage: "https://images.pexels.com/photos/5681800/pexels-photo-5681800.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "A woman's hand showcasing a gel nail polish bottle against a light background."
 faqs:
   - q: "¿Puedo hacer diseños elaborados en uñas cortas?"
     a: "Sí, ¡absolutamente! Hay muchos diseños que se ven increíbles en uñas cortas."

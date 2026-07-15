@@ -9,8 +9,8 @@ cluster:
   - "nail art básico"
   - "técnicas de uñas para principiantes"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/7066298/pexels-photo-7066298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "Close-up of a hand with colorful polka dot nail art holding vibrant nail polish bottles."
+heroImage: "https://images.pexels.com/photos/4316429/pexels-photo-4316429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "Close-up of a woman holding a cupcake with a lit candle against a bright yellow background."
 faqs:
   - q: "¿Cuáles son los mejores esmaltes para empezar?"
     a: "Es recomendable usar esmaltes de buena calidad. Los esmaltes de larga duración suelen ser más amigables para principiantes."

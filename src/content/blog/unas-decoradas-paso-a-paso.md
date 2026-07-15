@@ -9,8 +9,8 @@ cluster:
   - "técnicas de Nail Art"
   - "diseños de uñas para principiantes"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/7066298/pexels-photo-7066298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "Close-up of a hand with colorful polka dot nail art holding vibrant nail polish bottles."
+heroImage: "https://images.pexels.com/photos/7336965/pexels-photo-7336965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "A woman holding a golden party hat indoors with plants in the background."
 faqs:
   - q: "¿Cuánto tiempo duran las uñas decoradas?"
     a: "La duración depende de varios factores, pero generalmente pueden durar entre 5 y 7 días."

@@ -9,8 +9,8 @@ cluster:
   - "errores frecuentes en uñas"
   - "cosas que no hacer con uñas"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/973405/pexels-photo-973405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "Close-up of a woman applying glitter nail polish to manicured pink fingernails."
+heroImage: "https://images.pexels.com/photos/939835/pexels-photo-939835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "A close-up of a woman's hand showing a stylish pink and glittery manicure."
 faqs:
   - q: "¿Cuáles son los errores más comunes al hacerse las uñas?"
     a: "Los errores más comunes incluyen no preparar las uñas adecuadamente, elegir el color equivocado, aplicar el esmalte de forma incorrecta, ignorar la hidratación, no usar base y top coat, y no darles tiempo para secar."

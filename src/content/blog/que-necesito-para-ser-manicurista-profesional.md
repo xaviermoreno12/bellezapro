@@ -9,8 +9,8 @@ cluster:
   - "curso de manicure"
   - "pasos para ser manicurista"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/7066298/pexels-photo-7066298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "Close-up of a hand with colorful polka dot nail art holding vibrant nail polish bottles."
+heroImage: "https://images.pexels.com/photos/10286848/pexels-photo-10286848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "Close up of a woman's hand touching a man's chest, showcasing a romantic connection."
 faqs:
   - q: "¿Cuánto tiempo lleva convertirse en manicurista profesional?"
     a: "Convertirse en manicurista profesional puede llevar varios meses, dependiendo de la dedicación y la formación que elijas."

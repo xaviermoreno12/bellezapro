@@ -9,8 +9,8 @@ cluster:
   - "emprender en belleza"
   - "manicura en casa"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/6830805/pexels-photo-6830805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "From above of crop unrecognizable female in warm sweater demonstrating hands with manicure with creative nail art"
+heroImage: "https://images.pexels.com/photos/11124921/pexels-photo-11124921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "Close-up of a colorful outfit showing a knitted sweater with a yellow blazer and vibrant nails."
 faqs:
   - q: "¿Cuánto cuesta montar un negocio de uñas desde casa?"
     a: "Montar un negocio puede variar según la inversión inicial en herramientas y productos. Pero podés comenzar con un presupuesto accesible y luego ir ampliando."

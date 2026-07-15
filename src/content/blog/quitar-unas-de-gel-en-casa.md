@@ -9,8 +9,8 @@ cluster:
   - "remover uñas de gel en casa"
   - "quitar uñas de gel sin dolor"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/973405/pexels-photo-973405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "Close-up of a woman applying glitter nail polish to manicured pink fingernails."
+heroImage: "https://images.pexels.com/photos/7321737/pexels-photo-7321737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "A woman applying dark nail polish at home, showcasing beauty and self-care."
 faqs:
   - q: "¿Puedo quitar mis uñas de gel sin quitaesmalte?"
     a: "No es recomendable. El quitaesmalte sin acetona es clave para hacer el proceso más fácil y menos dañino."

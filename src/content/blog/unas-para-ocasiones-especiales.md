@@ -9,8 +9,8 @@ cluster:
   - "uñas elegantes para bodas"
   - "uñas temáticas para celebraciones"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/7066298/pexels-photo-7066298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "Close-up of a hand with colorful polka dot nail art holding vibrant nail polish bottles."
+heroImage: "https://images.pexels.com/photos/37869420/pexels-photo-37869420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "Close-up of a woman's hand showcasing vibrant and artistic nail art designs outdoors."
 faqs:
   - q: "¿Cuánto tiempo dura un diseño de uñas?"
     a: "Los diseños de uñas pueden durar entre una semana a un mes, dependiendo del tipo de material y el cuidado que les des."

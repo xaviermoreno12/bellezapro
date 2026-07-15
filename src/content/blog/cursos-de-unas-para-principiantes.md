@@ -9,8 +9,8 @@ cluster:
   - "cursos de belleza online"
   - "aprender a hacer uñas"
 productoId: "manicurista-premium"
-heroImage: "https://images.pexels.com/photos/7066298/pexels-photo-7066298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "Close-up of a hand with colorful polka dot nail art holding vibrant nail polish bottles."
+heroImage: "https://images.pexels.com/photos/7066258/pexels-photo-7066258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "Close-up of colorful polka dot nail art on hand, showcasing pink, yellow, and blue shades."
 faqs:
   - q: "¿Necesito experiencia previa para hacer un curso de uñas?"
     a: "No, la mayoría de los cursos están diseñados para principiantes y no requieren experiencia previa."
