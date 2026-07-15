@@ -25,6 +25,8 @@ faqs:
 draft: false
 ---
 
+Para hacer mechas en casa, necesitás papel aluminio, decolorante, tinte, brochas, guantes y un bol. Lava tu cabello un día antes y asegurate de que esté desenredado y seco. Aplica el decolorante en secciones elegidas, envolviendo cada una en papel aluminio para acelerar el proceso.
+
 # Cómo hacer mechas en casa: ¡Lográ un look espectacular!
 
 ¿Te imaginás tener un cabello radiante sin gastar una fortuna en el salón? Hacer mechas en casa puede sonar como una misión imposible, pero te prometo que con los consejos adecuados, ¡podés lograrlo! Y si en el proceso te sale un pequeño desastre, no te preocupes, ¡siempre hay gorros y pañuelos de moda!

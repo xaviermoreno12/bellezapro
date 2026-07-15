@@ -25,6 +25,8 @@ faqs:
 draft: false
 ---
 
+Las uñas en tendencia 2026 se caracterizan por colores vibrantes como el verde neón y el rosa chicle, así como tonos pasteles como el lavanda y el azul cielo. También regresan los acabados metálicos, con dorados y plateados brillantes, que aportan un toque elegante y audaz a tu estilo.
+
 # ¡Las uñas en tendencia 2026 que no te podés perder!
 
 Si pensás que las tendencias de uñas son solo una excusa para lucir bien en Instagram, ¡te tengo una sorpresa! Las **uñas en tendencia 2026** no solo son un accesorio, sino también una forma de expresión personal. Y como todo buen fashionista sabe, cada año trae su propia paleta de colores y estilos. ¡Así que preparate para que tus uñas sean el centro de todas las miradas!

@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para cortar el pelo en casa, necesitás tijeras de peluquería, un peine, clips para el pelo y, si te animás, una máquina de cortar pelo. Buscá un lugar bien iluminado y usá ropa que no te importe, ya que el cabello se adhiere fácilmente. Seguí estos pasos y lográs un look espectacular.
+
 # Cómo cortar el pelo en casa: ¡lográ un look espectacular!
 
 ¿Te ha pasado que te mirás al espejo y decís: "Hoy es el día"? El día en que vas a tomar las tijeras y darle un nuevo aire a tu pelo. Pero, claro, entre la emoción y el miedo, se te cruzan mil dudas: ¿y si me queda un desastre? ¿Y si termino con un corte asimétrico que no era la idea?

@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Las uñas acrílicas pueden durar entre 2 a 3 semanas antes de necesitar un retoque. Sin embargo, con el cuidado adecuado, pueden mantener su apariencia brillante y fresca hasta por 4 semanas.
+
 # ¿Cuánto duran las uñas acrílicas? Todo lo que tenés que saber
 
 Si alguna vez te preguntaste cuánto duran las uñas acrílicas, ¡no sos la única! Este tema es tan popular como el dilema de si comer dulce de leche o chocolate. Y como en la vida, la respuesta no es tan simple. Pero no te preocupes, aquí estoy para aclarar tus dudas y que puedas lucir esas uñas fabulosas sin preocupaciones.

@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para empezar con el nail art, prepará tus uñas limpiándolas y limándolas. Elegí esmaltes de colores, pinceles finos y decoraciones como brillos o stickers. Practicá diseños simples como puntos y líneas, mirá tutoriales en línea y recordá que la paciencia es clave para mejorar.
+
 # Nail Art para principiantes: ¡Aprendé a brillar con tus uñas!
 
 ¿Te has encontrado alguna vez en una situación donde tu manicure se convierte en un desastre total? Como cuando te haces una uña hermosa y al día siguiente, ¡pum!, se despega en medio de una reunión importante. No te preocupes, ¡todos hemos estado ahí! Pero hoy es tu día de suerte, porque vamos a hablar de **nail art para principiantes** y cómo convertir tus manos en pequeñas obras de arte.

@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para hacer uñas de gel en casa, necesitás un kit de uñas de gel que incluya base, color y top coat, además de una lámpara UV o LED para curar el gel. Comenzá limpiando tus manos, empujando las cutículas y limando las uñas a la forma deseada. Aplicá una capa de base de gel y curala en la lámpara.
+
 # Cómo hacer uñas de gel en casa: ¡brillá como una pro!
 
 Si alguna vez te ha pasado que te mirás las manos y pensás “¿por qué no tengo uñas de gel?”, este es tu momento. Aprender a hacer uñas de gel en casa es más fácil de lo que parece. Además, ¡es mucho más económico que ir a la manicurista! ¿Te imaginás deslumbrar a tus amigas con tus nuevas habilidades? Vamos a aprenderlo juntos, ¡y sin dramas!

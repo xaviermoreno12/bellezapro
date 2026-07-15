@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para decorar tus uñas, primero preparalas limando y limpiando cualquier esmalte anterior. Luego, aplicá una capa de base para protegerlas. Una vez seca, elegí un esmalte de color y aplicá una o dos capas. Finalmente, dejá volar tu imaginación con el diseño que prefieras.
+
 # Uñas decoradas paso a paso: ¡Conviértete en una experta!
 
 ¿Te ha pasado que tus uñas presentan un diseño digno de una película de terror? No te preocupes, no eres la única. A veces, el arte en las uñas puede parecer más complicado que armar un rompecabezas con piezas de diferentes juegos. Pero, ¡no temás! Hoy vamos a aprender a hacer uñas decoradas paso a paso de una forma fácil y divertida. 

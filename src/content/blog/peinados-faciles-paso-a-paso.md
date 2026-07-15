@@ -25,6 +25,8 @@ faqs:
 draft: false
 ---
 
+Los peinados fáciles que podés hacer en minutos incluyen la coleta alta desordenada y la trenza en cascada. Para la coleta, juntá tu cabello en la parte alta y aseguralo con una goma; en menos de 5 minutos tendrás un look casual. Para la trenza, dividí el cabello en tres secciones y seguí trenzando dejando caer mechones, logrando un estilo elegante rápidamente.
+
 # Peinados fáciles paso a paso: ¡Deslumbrá sin complicaciones!
 
 ¿Te ha pasado que tenés una cita importante y no sabés qué hacer con tu cabello? O quizás, justo esa mañana te despertaste tarde y el tiempo no te da para un estilo elaborado. No te preocupes, ¡estás en el lugar correcto! En este artículo, vamos a recorrer peinados fáciles paso a paso que podrás hacer en minutos, incluso si tenés dos manos izquierdas (o un perro que quiere jugar con tu pelo).

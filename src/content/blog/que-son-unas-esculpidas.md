@@ -25,6 +25,8 @@ faqs:
 draft: false
 ---
 
+Las uñas esculpidas son una técnica de manicura que permite crear una forma y longitud deseada utilizando productos como acrílico o gel. Son ideales para quienes desean tener uñas largas y con forma, y ofrecen una gran variedad de diseños y acabados.
+
 # ¿Qué son las uñas esculpidas? Todo lo que necesitás saber
 
 Si alguna vez te preguntaste qué son las uñas esculpidas, ¡estás en el lugar correcto! Y si ya te hiciste esa pregunta mientras te cepillabas los dientes y te olvidaste de enjuagar la pasta, no te preocupes, a todos nos pasa. Pero hoy vamos a despejar esas dudas y, de paso, hacer que tus uñas luzcan espectaculares. 

@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para ser manicurista profesional necesitás herramientas como limas, cortauñas, pinceles de Nail Art, gel o acrílico, y desinfectante. Además, es fundamental recibir formación en técnicas de manicure, pedicure y Nail Art, ya sea a través de cursos presenciales o en línea.
+
 # ¿Qué necesito para ser manicurista profesional y brillar?
 
 ¿Te imaginas tener un trabajo donde podés hacer lo que más te gusta: embellecer uñas y hacer que las personas se sientan fabulosas? Suena bien, ¿no? Pero antes de que empieces a soñar despierta con tu propia estética, hay varias cosas que tenés que tener en cuenta. Hoy te cuento qué necesitas para ser manicurista profesional y no morir en el intento (ni dejar a nadie con las uñas a medio hacer).

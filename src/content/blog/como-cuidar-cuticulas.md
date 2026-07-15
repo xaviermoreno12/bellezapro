@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para cuidar las cutículas, aplicá aceite o crema hidratante cada noche, evitá cortarlas en exceso para prevenir irritaciones y usá un palito de naranjo para empujarlas suavemente hacia atrás. Además, exfoliá una vez a la semana con una mezcla de azúcar y aceite de oliva para mantenerlas suaves y saludables.
+
 # Cómo cuidar las cutículas: Tips para unas uñas perfectas
 
 ¡Hola, beldades! Hoy vamos a hablar de un tema que muchas veces ignoramos, pero que es crucial para mantener nuestras uñas en su mejor forma posible: **cómo cuidar las cutículas**. Y sí, no hay nada más frustrante que ver esas cutículas deshidratadas y rebeldes que parecen tener vida propia, ¿verdad? Pero no te preocupes, te traigo los mejores consejos para que tus manos estén siempre bellas y listas para la selfie.

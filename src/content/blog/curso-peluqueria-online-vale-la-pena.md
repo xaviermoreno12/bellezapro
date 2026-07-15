@@ -25,6 +25,8 @@ faqs:
 draft: false
 ---
 
+Un curso de peluquería online es una buena opción si buscás flexibilidad para estudiar a tu ritmo, acceso a material exclusivo y una variedad de técnicas. Es crucial elegir un curso que ofrezca contenido completo y certificación reconocida, asegurando así una formación de calidad que te prepare para el mundo laboral.
+
 # Curso de peluquería online: ¿vale la pena para vos?
 
 ¿Alguna vez te pasó que te miraste al espejo y pensaste que tu peinado podría ser un poco... mejor? Como cuando te cortás el pelo y parece que un gato decidió jugar con las tijeras. Bueno, si estás considerando un curso de peluquería online, ¡no estás solo! Hoy vamos a ver si realmente vale la pena invertir tu tiempo y dinero en una formación que puede cambiar tu vida (y tu peinado, obvio).

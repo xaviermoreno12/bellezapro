@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Las tarifas que cobra una manicurista pueden variar entre $500 y $3000, dependiendo del tipo de servicio, la experiencia de la manicurista y la región. Por ejemplo, una manicura básica cuesta entre $500 y $800, mientras que las uñas acrílicas pueden llegar a costar entre $1500 y $3000.
+
 # ¿Cuánto cobra una manicurista? Descubrí el mundo de la belleza
 
 Cuando pensamos en el mundo de la belleza, las uñas son un tema que no se puede pasar por alto. Ya sea que te hagas la manicura cada dos semanas o solo en ocasiones especiales, ¡vení que hoy te cuento cuánto cobra una manicurista y por qué podrías querer ser una!

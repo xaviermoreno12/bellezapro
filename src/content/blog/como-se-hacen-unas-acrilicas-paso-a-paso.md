@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para hacer uñas acrílicas, primero limpiá y desinfectá tus manos y uñas. Luego, lima suavemente la superficie de tus uñas naturales para mejorar la adherencia. Después, aplicá un tip o molde para esculpir la uña y seguí con el polvo acrílico y el líquido monómero.
+
 # Cómo se hacen las uñas acrílicas paso a paso: ¡tu guía completa!
 
 Si alguna vez te has preguntado cómo se hacen las uñas acrílicas paso a paso, ¡estás en el lugar correcto! Vamos a descubrir juntas este arte de la belleza que puede transformar tus manos de un llanísimo cinco a un glamuroso diez. Y sí, lo sé, a veces parece que el mal estado de nuestras uñas es tan crónico como tu deseo de quedarte en casa en un viernes a la noche. Pero hoy, te prometo que vas a aprender a hacer unas uñas acrílicas que dejarán a todos con la boca abierta.

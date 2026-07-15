@@ -25,6 +25,8 @@ faqs:
 draft: false
 ---
 
+Las uñas de gel son más duraderas y resistentes, ideales para quienes tienden a romperse las uñas. Se aplican con un gel que se cura bajo lámpara UV, lo que les otorga un acabado brillante y la posibilidad de esculpirlas. Las uñas semipermanentes, en cambio, son más finas, se aplican más rápido y ofrecen una sensación más natural.
+
 # Uñas de gel o semipermanente: ¿cuál conviene más?
 
 Si estás en la búsqueda de un look espectacular para tus uñas, te habrás preguntado: ¿uñas de gel o semipermanente, cuál conviene más? No te preocupes, no sos la única. Esta es una de las preguntas más comunes en el mundo de la belleza. Y, para serte sincero, me recuerda a la vieja discusión entre el mate y el café: ambos tienen sus pros y contras, pero todo depende de tus gustos. ¡Así que vamos a desmenuzar esto juntos!

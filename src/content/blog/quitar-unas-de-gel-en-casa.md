@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para quitar uñas de gel en casa, necesitás quitaesmalte sin acetona, algodón, papel de aluminio y una lima. Primero, lima la superficie de la uña, luego coloca el algodón con quitaesmalte, envuelve con papel de aluminio y esperá entre 10 y 15 minutos antes de retirar.
+
 # Cómo quitar uñas de gel en casa: ¡Adiós a lo pegajoso!
 
 ¿Te pasó que te pusiste uñas de gel y ahora no sabés cómo sacártelas? Como ese momento incómodo en el que querés abrir una bolsa y no podés, lo mismo pasa cuando te olvidás de cómo quitar esas bellezas de tus manos. ¡Pero no temas! Hoy te voy a contar cómo quitar uñas de gel en casa de forma sencilla y sin dramas. 

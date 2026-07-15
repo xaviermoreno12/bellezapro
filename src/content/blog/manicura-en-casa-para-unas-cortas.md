@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+La manicura en casa para uñas cortas es económica y práctica. Para lograr un acabado elegante, seguí estos pasos: lijá y da forma a las uñas con una lima suave, remojá tus manos en agua tibia por unos minutos, y cortá y empujá las cutículas con un cortacutículas.
+
 # Manicura en casa para uñas cortas: tips y trucos
 
 ¿Te has encontrado con uñas cortas que parecen un campo de batalla? No te preocupes, ¡a todos nos ha pasado! Ya sea porque te olvidaste de salir con las manos llenas de esmalte o porque tu perro decidió hacer de tambor en tu dedo, la manicura en casa puede salvarte el día. En este artículo, te voy a contar cómo lograr una manicura perfecta en casa, sin necesidad de ser una experta. ¡Vamos a brillar con esas uñas cortas!

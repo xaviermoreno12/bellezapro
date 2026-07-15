@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para quitar uñas acrílicas en casa sin dañar tus uñas naturales, necesitás acetona pura, discos de algodón, papel de aluminio, una lima de uñas, un palito de naranjo y aceite para cutículas. Seguí los pasos adecuados, como limar la superficie, empapar los discos de algodón y envolver las uñas con papel de aluminio por 15-20 minutos.
+
 ¡Hola, belleza! Si estás aquí, es porque tus uñas acrílicas ya no son lo que eran y querés aprender **cómo quitar uñas acrílicas en casa sin dañar** tus preciosas uñitas naturales. No te preocupes, ¡no es una misión imposible! Vamos a ver cómo hacerlo sin necesidad de un superhéroe en el salón.
 
 ## La situación: ¿Por qué y cuándo quitar uñas acrílicas?

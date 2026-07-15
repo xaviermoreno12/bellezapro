@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+El cuidado del cabello teñido es crucial para evitar que se vuelva quebradizo y opaco. Usá productos específicos libres de sulfatos, lavá tu cabello con menos frecuencia y enjuagá con agua tibia o fría. Estos pasos ayudan a mantener el color vibrante y la salud de tu melena.
+
 # Cuidado del cabello teñido: Tips para brillar sin dañarlo
 
 ¿Te teñiste el pelo y ahora parece que saliste de un episodio de *La Casa de Papel* con esos colores raros? Tranquila, que no sos la única. El cuidado del cabello teñido puede parecer un rompecabezas, pero con estos consejos los días de desastre capilar se van a transformar en días de brillo y glamour. ¡Vamos a mantener ese color vibrante, como el primer día!

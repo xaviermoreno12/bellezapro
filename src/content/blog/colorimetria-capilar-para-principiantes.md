@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+La colorimetría capilar estudia los colores del cabello y su mezcla para lograr el look deseado. Es esencial conocer la rueda de colores, identificar tu tono de piel (cálido, frío o neutro) y realizar pruebas de mechones antes de teñir toda la cabeza para evitar desastres capilares.
+
 # Colorimetría capilar para principiantes: ¡ilumina tu camino!
 
 Si alguna vez te has mirado al espejo y has pensado: “¿por qué no puedo tener ese color de pelo de Instagram?”, no estás solo. La colorimetría capilar puede parecer un misterio tan profundo como entender por qué el café se termina en la mañana, pero no te preocupes, ¡aquí estoy para ayudarte! Vamos a desmitificar este arte y convertirte en un experto en el tema.

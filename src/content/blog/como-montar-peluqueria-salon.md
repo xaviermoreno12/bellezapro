@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para montar una peluquería o salón, seguí estos pasos: investigá el mercado y conocé a tu competencia, elaborá un plan de negocios que defina tus metas y presupuesto, elegí una ubicación con alto tránsito, legalizá tu negocio obteniendo los permisos necesarios, y decorá el salón para atraer a más clientes.
+
 # Cómo montar una peluquería o salón: ¡Tu sueño hecho realidad!
 
 ¿Te imaginas trabajando en un lugar donde la creatividad y el estilo son los protagonistas? ¡Montar tu propia peluquería o salón puede ser más fácil de lo que pensás! Este artículo no solo te va a dar las claves para iniciar tu negocio en el mundo de la belleza, sino que también te hará reír un poco en el camino. Porque, seamos sinceros, la vida es muy corta para no reírse de los peinados desastrosos que alguna vez hicimos. 

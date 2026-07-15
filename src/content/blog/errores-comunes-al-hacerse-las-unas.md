@@ -25,6 +25,8 @@ faqs:
 draft: false
 ---
 
+Al hacerse las uñas, es común cometer errores como no limpiar, limar y empujar las cutículas, elegir un color que no favorece, aplicar el esmalte en capas gruesas y olvidar la hidratación. Estos errores pueden llevar a que las uñas no luzcan como se desea, afectando el resultado final.
+
 # Errores comunes al hacerse las uñas: ¡evitalos y brilla!
 
 ¿Te ha pasado que te haces las uñas y, de repente, te das cuenta que algo salió mal? Como esa vez que pintaste tus uñas y luego te olvidaste y metiste la mano en el bolso, arruinando todo el trabajo. ¡No estás sola! Todos hemos estado ahí. Pero no te preocupes, hoy vamos a hablar de los errores comunes al hacerse las uñas y cómo esquivarlos como si fueran un charco en la calle después de una tormenta.

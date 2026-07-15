@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Los diseños para uñas cortas incluyen opciones como esmalte mate, francés invertido, nail art con puntos, geometría básica y diseños florales. Estas alternativas permiten lucir manos elegantes y a la moda, incluso sin uñas largas, manteniendo un estilo chic y práctico para quienes llevan un estilo de vida activo.
+
 # Diseños para uñas cortas: ¡Luces tus manos con estilo!
 
 ¿Te ha pasado que justo cuando te haces las uñas, una uña se despega en el peor momento? ¡Es una tragedia! Pero no te preocupes, porque hoy vamos a hablar de **diseños para uñas cortas** que son la solución perfecta para que tus manos luzcan espectaculares, incluso si el tamaño no es el ideal. Y sí, ¡hay vida más allá de las uñas largas!

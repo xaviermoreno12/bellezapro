@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para fortalecer las uñas débiles, mantené una hidratación constante con cremas específicas, usá suplementos como biotina, evitá productos químicos dañinos, limá las uñas en una sola dirección y protegé tus manos con guantes durante las tareas del hogar. Además, asegurate de tener una alimentación balanceada rica en nutrientes.
+
 # Cómo fortalecer las uñas débiles: tips infalibles
 
 ¡Hola, amante de la belleza! ¿Te pasó alguna vez que te miraste las uñas y pensaste que podrían ser más fuertes? No te preocupes, a todos nos ha pasado. Es como querer que una planta crezca en el invierno: un poco complicado, pero no imposible. Hoy vamos a descubrir cómo fortalecer esas uñas débiles y hacer que luzcan saludables y radiantes.
