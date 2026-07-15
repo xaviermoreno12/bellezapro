@@ -8,9 +8,14 @@
     "idioma": "es",
     "pais": "AR",
     "descripcion": "Guías honestas de uñas, peinados y belleza: aprendé técnicas paso a paso y, si querés, convertí tu pasión en un negocio.",
-    "autor": "Equipo BellezaPro",
+    "autor": {
+      "nombre": "Carla Ríos",
+      "rol": "Manicurista y estilista",
+      "bio": "Trabajo hace más de diez años con uñas y peinados. En BellezaPro comparto, paso a paso, las técnicas que uso a diario con mis clientas."
+    },
     "ga_id": "",
-    "gsc_verification": ""
+    "gsc_verification": "",
+    "email": "hola@bellezapro.com"
   },
   "marca": {
     "color_primario": "#db2777",
