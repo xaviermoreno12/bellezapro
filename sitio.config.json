@@ -43,7 +43,8 @@
       ],
       "para_quien": "Personas apasionadas por la belleza que quieren aprender o profesionalizarse en el cuidado de uñas.",
       "destacado": true,
-      "pagina_ventas": "https://hotmart.com/es/marketplace/productos/manicurista-premium/M40211098S?ref=F88061586C"
+      "pagina_ventas": "https://hotmart.com/es/marketplace/productos/manicurista-premium/M40211098S?ref=F88061586C",
+      "tema": "Uñas y manicura"
     },
     {
       "id": "estilista-premium",
@@ -61,7 +62,8 @@
         "Certificado avalado por Hotmart"
       ],
       "para_quien": "Quienes quieren dominar el estilismo y emprender en el sector de la belleza.",
-      "pagina_ventas": "https://hotmart.com/es/marketplace/productos/estilista-premium-2/O63751953D?ref=M77870524G"
+      "pagina_ventas": "https://hotmart.com/es/marketplace/productos/estilista-premium-2/O63751953D?ref=M77870524G",
+      "tema": "Peluquería"
     }
   ]
 }

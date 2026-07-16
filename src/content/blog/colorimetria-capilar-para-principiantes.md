@@ -1,7 +1,7 @@
 ---
 title: "Colorimetría capilar para principiantes: ¡ilumina tu camino!"
 description: "Aprendé colorimetría capilar para principiantes y convertite en un pro del color. ¡Tu pelo lo va a agradecer!"
-pubDate: 2026-07-13
+pubDate: 2026-07-14
 keyword: "colorimetria capilar para principiantes"
 cluster:
   - "colorimetría para novatos"

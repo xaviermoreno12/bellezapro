@@ -1,7 +1,7 @@
 ---
 title: "Cómo cortar el pelo en casa: ¡lográ un look espectacular!"
 description: "Aprendé cómo cortar el pelo en casa de manera fácil y efectiva. ¡Transformá tu look sin salir de tu hogar!"
-pubDate: 2026-07-13
+pubDate: 2026-07-15
 keyword: "como cortar el pelo en casa"
 cluster:
   - "corte de pelo en casa"

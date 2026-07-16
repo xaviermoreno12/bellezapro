@@ -1,7 +1,7 @@
 ---
 title: "Cómo montar un negocio de uñas desde casa y brillar"
 description: "Aprendé cómo montar un negocio de uñas desde casa y transformá tu pasión en ingresos."
-pubDate: 2026-07-13
+pubDate: 2026-07-12
 keyword: "como montar un negocio de uñas desde casa"
 cluster:
   - "abrir un salón de uñas en casa"

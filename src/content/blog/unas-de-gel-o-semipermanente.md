@@ -1,7 +1,7 @@
 ---
 title: "Uñas de gel o semipermanente: ¿cuál conviene más?"
 description: "Descubrí si las uñas de gel o semipermanente son para vos. Compará sus ventajas y elegí la mejor opción."
-pubDate: 2026-07-13
+pubDate: 2026-07-11
 keyword: "uñas de gel o semipermanente cual conviene"
 cluster:
   - "uñas semipermanentes"
