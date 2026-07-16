@@ -51,7 +51,7 @@ La belleza, y más aún el mundo de las uñas, está en constante evolución. ¿
 
 ## 4. Equipate adecuadamente
 
-Hablemos de herramientas. No escatimes en calidad. Un buen kit de manicura incluye limas, pulidores, esmaltes de calidad, y si te animás, productos para hacer uñas acrílicas. Si no sabés por dónde empezar, podés revisar este artículo sobre [cómo hacer uñas de gel en casa](/blog/como-hacer-unas-de-gel-en-casa/).
+Hablemos de herramientas. No escatimes en calidad. Un buen kit de manicura incluye limas, pulidores, esmaltes de calidad, y si te animás, productos para hacer uñas acrílicas. Si no sabés por dónde empezar, podés revisar este artículo sobre cómo hacer uñas de gel en casa.
 
 ## 5. Estrategias de marketing
 
@@ -59,7 +59,7 @@ No te olvides de promocionarte. Las redes sociales son tus mejores amigas. Publi
 
 ## 6. Establecé precios competitivos
 
-Antes de fijar tus precios, investigá cuánto cobran otras manicuristas en tu área. No se trata solo de poner un precio al azar. Teniendo en cuenta la calidad de tu trabajo y tus costos, armá una lista de precios justa. Si no sabés cuánto se cobra, podés revisar nuestro artículo sobre [cuánto cobra una manicurista](/blog/cuanto-cobra-una-manicurista/).
+Antes de fijar tus precios, investigá cuánto cobran otras manicuristas en tu área. No se trata solo de poner un precio al azar. Teniendo en cuenta la calidad de tu trabajo y tus costos, armá una lista de precios justa. Si no sabés cuánto se cobra, podés revisar nuestro artículo sobre cuánto cobra una manicurista.
 
 ## 7. Mantener la higiene
 

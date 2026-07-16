@@ -66,7 +66,7 @@ Ambas opciones son ideales para lucir unas manos impecables, pero hay detalles q
 
 Ambas opciones requieren un mínimo de cuidado. Las uñas de gel, al ser más gruesas, pueden necesitar una atención más especializada. Por el contrario, las semipermanentes requieren retoques más frecuentes, ya que su desgaste es mayor. 
 
-Es importante también considerar cómo quitar cada tipo de uña. En el caso de las uñas de gel, el proceso puede ser más complicado y a veces requiere asistencia profesional. Si te interesa, podés leer nuestro artículo sobre [cómo quitar uñas de gel en casa](/blog/quitar-unas-de-gel-en-casa/).
+Es importante también considerar cómo quitar cada tipo de uña. En el caso de las uñas de gel, el proceso puede ser más complicado y a veces requiere asistencia profesional. Si te interesa, podés leer nuestro artículo sobre cómo quitar uñas de gel en casa.
 
 ## Errores comunes al elegir
 
@@ -81,10 +81,10 @@ Uno de los errores más comunes es no considerar el estilo de vida. Si trabajas 
    ¡Por supuesto! Ambas opciones permiten una variedad de diseños y decoraciones.
 
 3. **¿Puedo hacerme uñas de gel en casa?**  
-   Si, pero es recomendable tener formación o experiencia previa. Para eso, podés consultar nuestro post sobre [cursos de uñas para principiantes](/blog/cursos-de-unas-para-principiantes/).
+   Si, pero es recomendable tener formación o experiencia previa. Para eso, podés consultar nuestro post sobre cursos de uñas para principiantes.
 
 4. **¿Cuánto duran las uñas semipermanentes?**  
-   Suelen durar entre 2 a 3 semanas, dependiendo de tu cuidado. Si querés saber más, podés leer el artículo sobre [cuánto duran las uñas semipermanentes](/blog/cuanto-duran-unas-de-gel/).
+   Suelen durar entre 2 a 3 semanas, dependiendo de tu cuidado. Si querés saber más, podés leer el artículo sobre cuánto duran las uñas semipermanentes.
 
 5. **¿Cómo puedo mantener mis uñas de gel?**  
    Mantén un buen régimen de cuidado y retocalas cada 3 a 4 semanas.
