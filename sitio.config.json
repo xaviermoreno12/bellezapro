@@ -47,7 +47,12 @@
       "destacado": true,
       "pagina_ventas": "https://hotmart.com/es/marketplace/productos/manicurista-premium/M40211098S?ref=F88061586C",
       "tema": "Uñas y manicura",
-      "cta_comprar": "Quiero ser manicurista 💅"
+      "cta_comprar": "Quiero ser manicurista 💅",
+      "lead_magnet": {
+        "titulo": "Kit de la manicurista que empieza: los 10 materiales imprescindibles (y los 5 que NO necesitás todavía)",
+        "gancho": "Descargá la lista exacta y no gastes de más en tu primer kit",
+        "pdf": "/regalos/kit-manicurista-inicio.pdf"
+      }
     },
     {
       "id": "estilista-premium",
@@ -67,7 +72,12 @@
       "para_quien": "Quienes quieren dominar el estilismo y emprender en el sector de la belleza.",
       "pagina_ventas": "https://hotmart.com/es/marketplace/productos/estilista-premium-2/O63751953D?ref=M77870524G",
       "tema": "Peluquería",
-      "cta_comprar": "Quiero ser estilista ✨"
+      "cta_comprar": "Quiero ser estilista ✨",
+      "lead_magnet": {
+        "titulo": "7 peinados de 5 minutos para salir apurada (paso a paso)",
+        "gancho": "7 peinados fáciles que salen en 5 minutos, con el paso a paso",
+        "pdf": "/regalos/7-peinados-5-minutos.pdf"
+      }
     }
   ]
 }
