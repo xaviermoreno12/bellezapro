@@ -82,4 +82,4 @@ Los diseños con puntos o líneas son ideales para comenzar. No requieren mucha 
 ### 6. ¿Debo siempre ir a un salón para hacerme las uñas?
 No necesariamente. Si te animás, podés hacerte diseños en casa. Existen muchos tutoriales y cursos online que te pueden ayudar, como Cursos de uñas para principiantes: ¡Conviértete en experta!.
 
-Si estás lista para profundizar tus conocimientos y convertirte en una verdadera experta en el cuidado y diseño de uñas, no olvides considerar el curso **Manicurista Profesional Premium**. Allí aprenderás todo lo necesario para transformar tu pasión en un negocio rentable, desde técnicas de Nail Art hasta el montaje de uñas esculpidas. ¡Es el momento de brillar en el mundo de la belleza!
+Con práctica y constancia, la diferencia se nota. Esperamos que esta guía te sea útil: seguí explorando el blog para más consejos de belleza.

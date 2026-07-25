@@ -40,7 +40,7 @@ const schema = {
       {temas.map((p) => (
         <a class="temario-item" href={url(`/blog?cat=${p.id}`)}>
           <span class="temario-tema">{p.tema}</span>
-          {p.descripcion_corta && <span class="temario-desc">{p.descripcion_corta}</span>}
+          <span class="temario-desc">Guías y consejos, explicados simple y paso a paso.</span>
         </a>
       ))}
       <a class="temario-item temario-todos" href={url('/blog')}>
