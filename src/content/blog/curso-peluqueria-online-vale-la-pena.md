@@ -70,8 +70,6 @@ Un error frecuente es dejarse llevar solo por el precio. A veces, lo barato sale
 
 ## Conclusión
 
-Entonces, ¿un curso de peluquería online vale la pena? Absolutamente, pero solo si elegís el curso adecuado. Si te interesa convertirte en un estilista premium y mejorar tus habilidades, hay opciones como la **Estilista Premium — MasterClass de estilismo**. Este curso incluye todo lo que necesitás: técnicas avanzadas de corte, colorimetría, peinados y maquillaje, además de enseñarte a gestionar tu propio negocio desde casa. 
+Entonces, ¿un curso de peluquería online vale la pena? Puede valerla, pero solo si elegís bien. Fijate que tenga un temario claro y completo (corte, colorimetría, peinados y, si te interesa, la parte de gestión del negocio), que muestre trabajos reales de sus alumnos y que te deje practicar con ejercicios. Huí de las promesas mágicas y priorizá el contenido por sobre el precio.
 
-No solo aprenderás a crear looks espectaculares, sino que también obtendrás un certificado avalado por Hotmart. ¡Te verás como un profesional en poco tiempo!
-
-Así que, si estás listo para dar el salto y convertirte en un estilista premium, no dudes en informarte sobre este curso. ¡Tu futuro en el mundo de la belleza te espera!
+Con la formación adecuada y práctica constante, vas a ir viendo resultados de a poco. ¡Tu futuro en el mundo de la belleza te espera!

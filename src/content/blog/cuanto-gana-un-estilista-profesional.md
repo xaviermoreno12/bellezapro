@@ -60,13 +60,13 @@ Si estás buscando hacer del estilismo tu carrera, hay varias estrategias que po
 
 3. **Ofrecé paquetes de servicios**: Es común que la gente prefiera pagar un poco más por un combo en lugar de hacerlo por separado. Por ejemplo, combinar corte y coloración puede ser muy atractivo para tus clientes.
 
-4. **Capacitate constantemente**: El mundo de la belleza está en constante cambio. Tomar cursos como el de [Estilista Premium — MasterClass](#) te ayudará a estar al tanto de las últimas tendencias y técnicas.
+4. **Capacitate constantemente**: El mundo de la belleza está en constante cambio. Formarte de manera continua te ayudará a estar al tanto de las últimas tendencias y técnicas.
 
 ## ¿Estilista freelance o en un salón?
 
 La decisión entre trabajar en un salón o ser freelance depende de tus objetivos. Trabajar en un salón puede ofrecer estabilidad, pero ser freelance te da la libertad de manejar tus horarios y precios. Sin embargo, ser tu propio jefe también significa que tenés que manejar tu propia clientela y, ¡aceptémoslo!, toda la carga administrativa. 
 
-Además, si decidís emprender, hay que tener en cuenta los permisos necesarios para iniciar un negocio de estilismo. ¡No todo es glamour! Pero no te preocupes, aprenderás sobre esto en la MasterClass.
+Además, si decidís emprender, hay que tener en cuenta los permisos necesarios para iniciar un negocio de estilismo. ¡No todo es glamour! Pero no te preocupes: con algo de planificación es un trámite totalmente manejable.
 
 ## El error común en la carrera de estilista
 
@@ -94,4 +94,4 @@ Sí, muchos estilistas ofrecen servicios desde casa. Es importante verificar los
 
 ## ¿Listo para llevar tu carrera de estilista al siguiente nivel?
 
-Si soñás con ser un estilista premium, no hay mejor momento que ahora para comenzar. La MasterClass de Estilista Premium te brindará todas las herramientas que necesitás, desde técnicas avanzadas hasta cómo gestionar tu negocio. Aprendé a manejar tu cartera de clientes y a utilizar el marketing digital para hacer crecer tu emprendimiento. ¡No te quedes atrás y da el salto hacia tu futuro en la belleza!
+Si soñás con vivir del estilismo, no hay mejor momento que ahora para empezar. Combiná una buena base técnica con una marca personal cuidada, mostrá tu trabajo en redes y sumá clientes de a poco: manejar bien tu cartera y aprovechar el marketing digital es lo que hace crecer un emprendimiento. Paso a paso, tu futuro en la belleza se construye hoy.

@@ -1,6 +1,5 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import CTA from '../../components/CTA.astro';
 import CajaRegalo from '../../components/CajaRegalo.astro';
 import { getCollection, render } from 'astro:content';
 import { SITIO, PRODUCTOS, PRODUCTO_DESTACADO, AUTOR, urlAbsoluta } from '../../lib/sitio.ts';
@@ -85,8 +84,6 @@ if (d.pasos && d.pasos.length > 0) {
     <div class="prose">
       <Content />
     </div>
-
-    <CTA producto={producto} />
 
     <CajaRegalo producto={producto} />
 

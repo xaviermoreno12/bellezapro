@@ -83,6 +83,6 @@ Uno de los errores más comunes es no tener en cuenta el subtono del cabello. A 
 
 ## ¿Y ahora qué?
 
-Si te entusiasma el mundo de la colorimetría capilar y querés llevar tus habilidades al siguiente nivel, te invito a conocer la **Estilista Premium — MasterClass de estilismo**. En este curso vas a aprender no solo sobre colorimetría, sino también sobre técnicas de corte, peinados y maquillaje. Además, tendrás herramientas para gestionar tu propio negocio desde casa. ¡Empezá hoy y convertite en el estilista que siempre soñaste ser!
+La colorimetría se entiende de verdad practicando: empezá por identificar tu subtono y el de las personas que conocés, animate a combinaciones simples y andá subiendo la dificultad de a poco. Con cada prueba vas a ganar ojo y confianza.
 
 ¿Listo para brillar? ¡El mundo de la belleza te espera!
