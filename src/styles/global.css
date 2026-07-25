@@ -233,3 +233,6 @@ html { scroll-behavior: smooth; }
   transition: transform .15s ease, filter .15s ease; }
 .btn-wa:hover { transform: translateY(-2px); filter: brightness(1.05); }
 .btn-wa svg { flex: 0 0 auto; }
+.regalo-valor { font-size: .92rem; color: var(--secundario); line-height: 1.5; margin: .8rem 0 .2rem;
+  padding-left: .1rem; }
+.regalo-valor strong { color: var(--primario); }
